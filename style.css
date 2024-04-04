@@ -1,3 +1,5 @@
+body{background-color: #070F2B;}
+
 .container{
     margin: 0 auto;
     max-width: 400px;
@@ -9,12 +11,12 @@
 .title{
     font-size: 36px;
     margin: 10px;
-    color: #2c3e50;
+    color: #9290C3;
 }
 
 .timer{
     font-size: 72px;
-    color: #2c3e50;
+    color: #9290C3;
 }
 
 button {
