@@ -44,6 +44,7 @@ function resetTimer() {
     timerRunning = false;
 }
 
+
 startEl.addEventListener("click", startTimer);
 stopEl.addEventListener("click", stopTimer);
 resetEl.addEventListener("click", resetTimer);
